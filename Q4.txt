@@ -1,0 +1,5 @@
+Q4. Discuss the precedence and associativity of operators in JavaScript. Why is understanding these concepts
+important?
+Answer: 
+Precedence is something which we see between different operators like(*,/,%>+-) etc, while associativity is seen between same precedence operators in which associativity is always from left to right.
+eg, let a=2+5-6*10/2%3;

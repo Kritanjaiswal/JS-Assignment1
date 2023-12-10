@@ -1,0 +1,11 @@
+Q3. Differentiate between unary, binary, and ternary operators in JavaScript. Give examples of each.
+Answer:
+Unary Operator: It uses only one Operand to perform action.
+eg, let a=10;
+      a++;
+Binary Operator: It uses two Operands to perform action.
+eg, let a=1;
+      let b=1;
+      let c=a+b;
+Ternary Operator: It uses three Operands to perform action.
+eg,let a=(2==2)?console.log(‘Equal’) : console.log(‘Not equal’). 

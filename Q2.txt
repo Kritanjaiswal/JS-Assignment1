@@ -1,0 +1,25 @@
+Q2. Describe the categorization of operators in JavaScript based on their functionality. Provide examples for each category.
+Answer: 
+Many Types of operators are available in JavaScript-
+a. Assignment Operator.
+eg, let a=10;
+
+b. Unary Operator.
+eg,  a++;
+
+c. Logical Operator.
+eg, let a=2,let b=3;
+      let c=a&b;
+
+d. Arithmetic Operator.
+eg, let a=5+5;
+
+e. Comparison Operator.
+eg, console.log(5==5);
+
+g.  Bitwise Operator
+eg, let a=2, let b=3;
+console.log(a&b);
+
+h.  Ternary Operator.
+Eg, let a=(2==2)?console.log(‘Equal’) : console.log(‘Not equal’).
